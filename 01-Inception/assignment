@@ -1,0 +1,18 @@
+## Namaste React Course by Akshay Saini
+
+# _Episode 01 - Inception_
+
+## Theory :
+
+- What is `Emmet`?
+  A tool that speeds up HTML and CSS coding by letting you type short snippets that expand into full code. It’s like shorthand for faster coding.
+- What is `CDN`? Why do we `use` it?
+  A Content Delivery Network helps load files (like JavaScript and CSS) quickly by using servers closer to the user. It makes websites faster and saves your server some work.
+- Why is `React known as React`?
+  React gets its name because it "reacts" to changes. When data updates, React changes the display smoothly without reloading everything.
+- What is `crossorigin in script tag`?
+  React gets its name because it "reacts" to changes. When data updates, React changes the display smoothly without reloading everything.
+- What is difference between `React and ReactDOM`?
+  React is for building components (parts of the interface), while ReactDOM is for actually placing them in the browser's page layout.
+- What is difference between `react.development.js` and `react.production.js` files via CDN?
+  The development file has extra tools for debugging, while the production file is optimized for speed and file size, ideal for the final live website.
